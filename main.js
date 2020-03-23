@@ -31,7 +31,7 @@ $(function(){
         title: {
             text: 'JavaScript 语言排名变化'
         },
-        tooltip: {},
+        tooltip: {trigger: 'axis'},
         legend: {
             data:['销量']
         },
